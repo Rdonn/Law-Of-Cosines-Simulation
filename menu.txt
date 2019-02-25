@@ -1,0 +1,5 @@
+MENU: TO GO BACK: Press 'b'
+    
+    FOR MENU: Press 'm'
+    FOR NEW COLOR: Press 'r'
+    
